@@ -1,0 +1,3 @@
+﻿  problem_64.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelFourOfProblemSolving\problem_64\problem_64.cpp(19,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  problem_64.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelFourOfProblemSolving\problem_64\x64\Debug\problem_64.exe
